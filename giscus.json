@@ -1,4 +1,4 @@
 {
-  "origins": ["https://8dlog.com"],
+  "origins": ["https://8dlog.com", "https://beta.8dlog.com"],
   "originsRegex": ["http://localhost:[0-9]+"]
 }
